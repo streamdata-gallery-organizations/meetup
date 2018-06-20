@@ -1710,7 +1710,7 @@ paths:
         type: string
       - in: query
         name: title
-        description: ' Title of the new album'
+        description: Title of the new album
         type: string
       responses:
         200:
@@ -1877,8 +1877,8 @@ paths:
         type: string
       - in: query
         name: member_id
-        description: ' Organizers and event hosts may RSVP on behalf of a member by
-          specifying an ID here'
+        description: Organizers and event hosts may RSVP on behalf of a member by
+          specifying an ID here
         type: string
       - in: query
         name: rsvp
@@ -2005,8 +2005,8 @@ paths:
         type: string
       - in: query
         name: member_id
-        description: ' Organizers and event hosts may RSVP on behalf of a member by
-          specifying an ID here'
+        description: Organizers and event hosts may RSVP on behalf of a member by
+          specifying an ID here
         type: string
       - in: query
         name: opt_to_pay

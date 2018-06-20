@@ -1671,7 +1671,7 @@ paths:
         type: string
       - in: query
         name: title
-        description: ' Title of the new album'
+        description: Title of the new album
         type: string
       responses:
         200:

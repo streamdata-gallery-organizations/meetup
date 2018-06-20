@@ -4,7 +4,7 @@ x-collection-name: Meetup
 x-complete: 1
 info:
   title: Meetup
-  description: the-meetup-api-provides-simple-restful-http-and-streaming-interfaces-for-exploring-and-interacting-meetup-platform-from-your-own-apps-the-api-is-a-set-of-core-methods-and-a-common-request-format-these-are-combined-to-form-a-url-that-returns-the-information-you-want-
+  description: the-meetup-api-provides-simple-restful-http-and-streaming-interfaces-for-exploring-and-interacting-meetup-platform-from-your-own-apps--the-api-is-a-set-of-core-methods-and-a-common-request-format--these-are-combined-to-form-a-url-that-returns-the-information-you-want--
   version: 1.0.0
 host: api.meetup.com
 basePath: /
@@ -1740,7 +1740,7 @@ paths:
         type: string
       - in: query
         name: title
-        description: ' Title of the new album'
+        description: Title of the new album
         type: string
       responses:
         200:
@@ -1907,8 +1907,8 @@ paths:
         type: string
       - in: query
         name: member_id
-        description: ' Organizers and event hosts may RSVP on behalf of a member by
-          specifying an ID here'
+        description: Organizers and event hosts may RSVP on behalf of a member by
+          specifying an ID here
         type: string
       - in: query
         name: rsvp
@@ -2035,8 +2035,8 @@ paths:
         type: string
       - in: query
         name: member_id
-        description: ' Organizers and event hosts may RSVP on behalf of a member by
-          specifying an ID here'
+        description: Organizers and event hosts may RSVP on behalf of a member by
+          specifying an ID here
         type: string
       - in: query
         name: opt_to_pay
