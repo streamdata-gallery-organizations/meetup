@@ -5,10 +5,10 @@ description: Find Meetups so you can do more of what matters to you. Or create y
   own group and meet people near you who share your interests.
 image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/6564-meetup.jpg
 x-kinRank: "9"
-x-alexaRank: "902"
+x-alexaRank: "917"
 tags: Meetup
-created: "2018-06-20"
-modified: "2018-06-20"
+created: "2018-06-25"
+modified: "2018-06-25"
 url: https://raw.githubusercontent.com/streamdata-gallery-organizations/meetup/master/_listings/meetup/apis.md
 specificationVersion: "0.14"
 apis:
