@@ -1,0 +1,33 @@
+{
+	"name": "Streadata.io API Gallery - Meetup",
+	"description": "This is a repository of meetup APIs, self-contained as a Github repository, with HTML and YAML representations of the APIs and their surrounding operations.",
+	"image": "http://template.streamdata.gallery/assets/meetup.png",
+	"created": "2018-02-24",
+	"modified": "2018-08-30",
+	"url": "http://meetup.streamdata.gallery/apis.json",
+	"specificationVersion": "0.14",
+	"apis": [
+		{
+			"name": "Meetup",
+			"x-api-slug": "meetup",
+			"description": "Find Meetups so you can do more of what matters to you. Or create your own group and meet people near you who share your interests.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/6564-meetup.jpg",
+			"humanURL": "http://meetup.com",
+			"baseURL": "https:///",
+			"tags": "Meetup",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-organizations/meetup/master/_listings/meetup/openapi.md"
+				}
+			]
+		}
+	],
+	"tags": "Meetup",
+	"include": [
+		{
+			"name": "Meetup",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-organizations/meetup/master/_listings/meetup/apis.yaml"
+		}
+	]
+}
